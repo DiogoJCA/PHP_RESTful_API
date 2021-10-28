@@ -2,9 +2,9 @@
     class Database {
         // DB Parameters
         private $host = 'localhost';
-        private $db_name = 'myblod';
+        private $db_name = 'myblog';
         private $username = 'root';
-        private $password = '123456';
+        private $password = '';
         private $conn;
 
         // DB Connect
